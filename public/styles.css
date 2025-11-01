@@ -10,7 +10,31 @@ body {
   color: var(--artshare-light) !important;
   margin: 0;
 }
+.btn-secondary{
+  background-color: #5d4679!important;
+   margin-top: 20px !important;
+}
+.btn-warning{
+  background-color:rgb(105, 33, 128) !important;
+  border: none !important;
+  color: #a7a7a7!important;
+  margin-top: 20px !important;
+  margin-bottom: 5px !important;
+}
+.btn-danger{
+  margin-top: 20px !important;
+  margin-bottom: 5px !important;
+}
+.form-label{
+  margin-left: 25px !important;
+}
+.form-select{
+  width: 990px !important;
+  margin-left: 20px;
+  background-color: #d0b2f1 !important;
+  text-align: center;
 
+}
 .navbar {
   background-color: var(--artshare-blue) !important;
   border-bottom: 2px solid var(--artshare-purple) !important;
@@ -128,6 +152,7 @@ main.col-md-9 {
   margin-bottom: 0px !important;
   margin-left: 0px !important;
   margin-right: 50px !important;
+  width: 990px;
 
 }
 
@@ -389,6 +414,13 @@ main.col-md-9 {
     
     .welcome-message h2 {
         font-size: 1.5em !important;
+    }
+    .publish-section{
+      width: auto;
+    }
+    .form-select{
+      width: 50px;
+      text-align: left;
     }
     .card-pequeno {
         min-height: 200px !important;

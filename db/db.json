@@ -4,8 +4,8 @@
       "id": "1",
       "titulo": "Recortes do Fundo do Mar",
       "artista": "Erica Regina",
-      "descricao": "Breve representação da beleza marinha.",
-      "imagem": "images/recortes_do_fundo_do_mar.jpg"
+      "imagem": "images/recortes_do_fundo_do_mar.jpg",
+      "descricao": "Breve representação da beleza marinha."
     },
     {
       "id": "2",
